@@ -1,0 +1,5 @@
+
+Snake 6
+
+Add two fields to the SnakeSection class: x and y of type int.
+Add getter for them and a constructor with two parameters of type int.
